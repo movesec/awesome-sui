@@ -9,6 +9,10 @@
 - [Move Book](https://move-language.github.io/move/) - Introductory e-book to Move by the official team
 - [The Move Book](https://move-book.com/) - E-book to learn Move by the community 
 
+## Sui Move
+
+- [Why we created Sui Move](https://medium.com/mysten-labs/why-we-created-sui-move-6a234656c36b) - Introductory article by Mysten Labs on advantages of Sui Move compared to Diem/Aptos Move
+
 ## Reference Smart Contracts
 
 ## Bug Bounty Programs
